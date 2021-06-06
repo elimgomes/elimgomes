@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elimgomes
-- 👀 I created this GitHub so I can learn more about data science and programming
+- 👀 I created this GitHub to learn more about data science and business intelligence
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on projects to create a portfolio
 - 📫 You can reach me at elioenaigomes@gmail.com
